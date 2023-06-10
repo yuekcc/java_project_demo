@@ -1,0 +1,2 @@
+my:
+    var: "${MY_VAR}"
